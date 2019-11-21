@@ -1,0 +1,9 @@
+Package: com.badman.chuhan
+Name: Chuhan
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Completly disables the visualiser in the Music app
+Maintainer: BadmanJD
+Author: BadmanJD
+Section: Tweaks
